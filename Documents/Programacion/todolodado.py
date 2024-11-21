@@ -858,3 +858,5 @@ binance = BinarioTypeTHing(matrizOutside)
 print(f"La matriz original es: {matrizOutside}")
 print(f"La matriz modificada a 0 y 1 es: {binance}")
 
+# Este comentario viene directamente de Github.
+
